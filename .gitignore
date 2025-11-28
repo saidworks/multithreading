@@ -39,3 +39,4 @@ build/
 /src/main/resources/tps/jmeter.log
 /logs/
 /.idea/
+/.idea/*.xml
